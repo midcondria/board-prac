@@ -18,3 +18,5 @@
     - 삭제
   - 예외처리
     - CRUD 및 회원가입 / 로그인에 필요한 기본적인 커스텀 예외 처리 완료
+  - 기본적인 CORS 처리
+    - WebMvcConfig로 origin localhost:3000 추가
